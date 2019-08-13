@@ -1,4 +1,4 @@
 # RC-2A
-Turma RC2B
-Ana Beatriz Martarelli Coutinho
-RA: 1900145
+Turma RC2B<br/>
+Ana Beatriz Martarelli Coutinho<br/>
+RA: 1900145<br/>
